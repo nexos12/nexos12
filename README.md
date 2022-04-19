@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nexos12
 - 👀 I’m interested in ... webdesign, programing
-- 🌱 I’m currently learning ... swift
 - 💞️ I’m looking to collaborate on ... many projects
 - 📫 How to reach me ... discord @nexos9231
 
